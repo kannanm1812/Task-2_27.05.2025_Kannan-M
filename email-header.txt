@@ -1,0 +1,9 @@
+Received: from mail.paypall-security.com (203.0.113.55) by mx.google.com with ESMTPS id abc123;
+        Mon, 27 May 2025 10:15:30 -0700 (PDT)
+From: PayPal Support <support@paypall-security.com>
+To: user@example.com
+Subject: URGENT: Your Account Has Been Suspended!
+Message-ID: <f6a7c8b9-334c-4cb7-9111-1234abcd5678@mail.paypall-security.com>
+Date: Mon, 27 May 2025 10:15:30 -0700 (PDT)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
